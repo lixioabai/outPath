@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2190686629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 220aa4a41324423b549edf66067da9b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b7b9910e115af4f918df19003fbd8cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/prefab/Avatar-0.prefab
+Dependencies: []

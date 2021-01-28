@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2983224272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90dcfb5f35d8716af5e134ff28df34d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0cba798c84efb8a86644b40b5a467a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/AvatarView.prefab
+Dependencies: []
